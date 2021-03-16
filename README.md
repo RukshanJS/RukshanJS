@@ -19,18 +19,18 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://github.com/RukshanJS/RukshanJS">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=RukshanJS" alt="page views" />
   </a>
  
-  <a href="https://stackoverflow.com/users/8995555/">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+  <a href="https://stackoverflow.com/users/8995555/stackerRook">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/8995555?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/RukshanJS?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/RukshanJS?color=green&logo=github">
   </a>
 </p>
 
-- :education: &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa
+- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
