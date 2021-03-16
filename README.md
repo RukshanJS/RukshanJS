@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="left" id="rukshanjs-title">Hello there! I'm Rukshan</h1>
+<h3 align="left">I am an aspiring Mobile and Web Programmer with a real interest in AI & ML.</h3>
+
+<p align="left">
+  <a href="https://github.com/RukshanJS/RukshanJS">
+    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  </a>
+ 
+  <a href="https://stackoverflow.com/users/8995555/">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/RukshanJS?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+  </a>
+</p>
+
+- :education: &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
+<br>
+
+
+
+[issues page]: https://github.com/RukshanJS/RukshanJS/issues "RukshanJS/issues"
+[linkedin]: https://www.linkedin.com/in/rukshanjs/ "Rukshan J. Senanayaka LinkedIn"
