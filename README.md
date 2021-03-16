@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=RukshanJS" alt="page views" />
   </a>
  
-  <a href="https://stackoverflow.com/users/8995555/stackerRook">
+  <a href="https://stackoverflow.com/users/8995555/">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/8995555?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/RukshanJS?tab=followers">
